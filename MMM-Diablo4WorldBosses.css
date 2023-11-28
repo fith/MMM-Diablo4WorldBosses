@@ -1,0 +1,31 @@
+/*
+ *
+ * MMM-Diablo4WorldBosses
+ *
+ * 
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */
+.MMM-Diablo4WorldBosses .name {
+  font-size: 4em;
+  margin:0;
+  padding:0;
+  color: #fff;
+  font-weight: bolder;
+}
+
+.MMM-Diablo4WorldBosses .timer {
+  font-size: 2em;
+  margin:0;
+  padding:0 0 0 1em;
+  color:#fff;
+  font-weight: lighter;
+}
+
+.MMM-Diablo4WorldBosses .location {
+  display:block;
+  font-size: 1em;
+  margin:0;
+}
